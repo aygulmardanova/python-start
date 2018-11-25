@@ -117,6 +117,7 @@ tmtagsHistory
 *.sublime-project
 *.sublime-workspace
 .bundle
+board/
 
 #PyCharm
 .idea/
