@@ -105,3 +105,19 @@ venv.bak/
 
 # MAC OS
 .DS_Store
+
+# OS generated files #
+ehthumbs.db
+Icon
+Thumbs.db
+.tmtags
+tags
+vendor.tags
+tmtagsHistory
+*.sublime-project
+*.sublime-workspace
+.bundle
+
+#PyCharm
+.idea/
+MNIST_data/
